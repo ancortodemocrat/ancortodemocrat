@@ -1,0 +1,6 @@
+[submodule "ancortodemocrat-core"]
+	path = ancortodemocrat-core
+	url = https://github.com/ancortodemocrat/ancortodemocrat-core.git
+[submodule "ancortodemocrat-gui"]
+	path = ancortodemocrat-gui
+	url = https://github.com/ancortodemocrat/ancortodemocrat-gui.git
